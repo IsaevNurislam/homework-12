@@ -1,7 +1,7 @@
 {
   "name": "project-3",
   "version": "0.1.0",
-  "homepage": "https://IsaevNurislam.github.io/homework-12",
+  "homepage": "https://isaevnurislam.github.io/homework-12",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
